@@ -9,6 +9,6 @@ services:
     plan: free
     envVars:
       - key: OPENAI_API_KEY
-        sync: false   # set value in the Render dashboard
+        sync: false   # set the value in Render dashboard
       - key: LOG_LEVEL
         value: info
