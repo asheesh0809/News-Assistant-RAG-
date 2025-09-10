@@ -1,0 +1,11 @@
+[build]
+  base = "rag-news-frontend/my-app"
+  command = "npm ci && npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+# Important for monorepos: tell Netlify to use its Next.js runtime
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
