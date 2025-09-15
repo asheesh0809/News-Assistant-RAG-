@@ -2,7 +2,7 @@
 
 A sophisticated real-time news question-answering system powered by Retrieval-Augmented Generation (RAG) architecture. Get intelligent, contextual answers about current events with source attribution and semantic search capabilities.
 
-Thought for 3s### RAG News Assistant ️
+### RAG News Assistant ️
 
 A sophisticated real-time news question-answering system powered by Retrieval-Augmented Generation (RAG) architecture. Get intelligent, contextual answers about current events with source attribution and semantic search capabilities.
 
